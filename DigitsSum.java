@@ -1,5 +1,10 @@
 import java.util.Scanner; // Import Scanner class
 
+/*
+ * The DigitSum class contains the static method addDigits() which calculates the sum of the individual
+ * digits in an integer provided by the user. 
+ */
+
 public class DigitsSum {
 	static int sum = 0; // initializing the counter 
 
